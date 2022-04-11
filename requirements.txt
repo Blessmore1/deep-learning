@@ -1,6 +1,6 @@
 
 
-Python==3.8.8
+python==3.8.8
 
 gitdb==4.0.9
 GitPython==3.1.27
@@ -24,10 +24,7 @@ sklearn==0.0
 numpy==1.20.1
 streamlit==1.8.1
 
-tensorboard==2.8.0
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
 tensorflow==2.8.0
-tensorflow-io-gcs-filesystem==0.24.0
+
 
 
